@@ -1,2 +1,2 @@
 language = "java10"
-run = "javac %"
+run = "echo \"Repl.it/@AnushDP/JavaGUI\" && cd p4 && javac Shapes.java && java Shapes"
